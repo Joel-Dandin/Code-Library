@@ -8,5 +8,5 @@ def ncatalan(n):
     return result
  
 print("The 20 catalan numbers are\n")
-for i in range(15):
+for i in range(20):
     print(ncatalan(i), end=" ")
